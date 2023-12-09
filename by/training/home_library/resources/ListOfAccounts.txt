@@ -1,0 +1,15 @@
+role=ADMIN
+name=Диана
+login=Diana
+password=Z_WdW'//-
+------------------------------
+role=USER
+name=Стас
+login=Stas
+password=ijWi'//-
+------------------------------
+role=USER
+name=Liza
+login=Liza
+password=b_pWWW'()
+------------------------------
